@@ -1,10 +1,12 @@
 # 🖱️ INFINITE SLIDER
 
-Infinite Slider using CSS only
+<h3>Infinite Slider using CSS only</h3>
+<hr>
 
 ## 🚀 LIVE DEMO
 
-
+https://maheshr03.github.io/Infinite-Slider/
+<hr>
 
 ## 🎥 SAMPLE 
 
