@@ -8,7 +8,6 @@
 https://maheshr03.github.io/Infinite-Slider/
 <hr>
 
-## 🎥 SAMPLE 
+## 🎥 SNAPSHOT
 
-https://github.com/user-attachments/assets/0302f61d-4b10-41a9-a4ff-8382777026a2
-
+<img width="1916" height="909" alt="image" src="https://github.com/user-attachments/assets/8705e857-6c4b-44b5-a0e3-d44f5348accb" />
