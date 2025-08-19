@@ -5,7 +5,7 @@
 
 ## 🚀 LIVE DEMO
 
-https://maheshr03.github.io/Infinite-Slider/
+[Check it out here](https://maheshr03.github.io/Infinite-Slider/)
 <hr>
 
 ## 🎥 SNAPSHOT
